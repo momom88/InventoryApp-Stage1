@@ -1,5 +1,5 @@
 # InventoryApp-Stage1
-This is the seven project of the Google developer challenge scholarship. The task given was to create a Inventory app stage .
+This is the eight project of the Google developer challenge scholarship. The task given was to create a Inventory app stage .
 
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
