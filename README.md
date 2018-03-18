@@ -8,4 +8,4 @@ This project is about combining various ideas and skills we’ve been practicing
 * Modifying the entries
 * Displaying the contents of the table to users.
 
-<img src="/screenshots/Screenshot1.png" width="363" height="564"><img src="/screenshots/Screenshot2.png" width="363" height="564">
+<img src="/screenshot/Screenshot1.png" width="363" height="564"><img src="/screenshot/Screenshot2.png" width="363" height="564">
